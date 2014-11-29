@@ -1,0 +1,20 @@
+name: ApiPlus
+main: team.ApiPlus.ApiPlus
+version: 2.7.2
+authors: [SirTyler, Atlan1]
+depend: [Spout]
+softdepend: [WorldGuard, LWC]
+commands:
+    loadout:
+        description: API+ Loadout Command.
+        aliases: [load,l+]
+        usage: /loadout - Shows API+ Loadouts
+permissions:
+    apiplus.*:
+        description: Gives all permissions
+        children:
+            apiplus.craft.all: true
+    apiplus.craft.all:
+        description: Gives permission to craft all items
+        default: true
+    

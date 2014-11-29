@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ApiPlus:jar">
+    <output-path>D:/Program Files (x86)/tutorial/plugins</output-path>
+    <root id="archive" name="ApiPlus.jar">
+      <element id="module-output" name="ApiPlus" />
+    </root>
+  </artifact>
+</component>

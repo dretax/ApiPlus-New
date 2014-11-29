@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="LWC">
+    <CLASSES>
+      <root url="jar://D:/Program Files (x86)/imports/LWC.jar!/" />
+      <root url="jar://D:/Program Files (x86)/imports/spoutcraftplugin-1.6.4-b1 (1).jar!/" />
+      <root url="jar://D:/Program Files (x86)/imports/worldguard-5.7.3.jar!/" />
+      <root url="jar://D:/Program Files (x86)/imports/worldedit-5.5.6.jar!/" />
+      <root url="jar://D:/Program Files (x86)/testing3/craftbukkit-1.6.4-R2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Program Files (x86)/testing3/craftbukkit-1.6.4-R2.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
